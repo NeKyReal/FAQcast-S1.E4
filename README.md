@@ -1,4 +1,4 @@
-# **FAQcast-S1.E4**
+# **FAQcast S1.E4**
 Код из нового выпуска подкста [FAQcast](https://www.youtube.com/watch?v=EIoLU3GFEzs) от участника команды «HTTPS Hooligans». В выпуске говорится:
 
 1. О ChatGPT и созданию хороших запросов для него. 
